@@ -1,0 +1,26 @@
+original_name,friendly_name,feature_type,planned_treatment,notes
+ID,customer_id,identifier,drop from model,
+X1,credit_limit,numeric,scale,
+X2,sex,categorical,one-hot encode,
+X3,education,categorical,clean + one-hot encode,"Contains undocumented category codes 0, 5 and 6."
+X4,marital_status,categorical,clean + one-hot encode,Contains undocumented category code 0.
+X5,age,numeric,scale,
+X6,payment_status_sep,categorical,one-hot encode,Contains repayment-status codes -2 and 0; keep as separate categories initially.
+X7,payment_status_aug,categorical,one-hot encode,Contains repayment-status codes -2 and 0; keep as separate categories initially.
+X8,payment_status_jul,categorical,one-hot encode,Contains repayment-status codes -2 and 0; keep as separate categories initially.
+X9,payment_status_jun,categorical,one-hot encode,Contains repayment-status codes -2 and 0; keep as separate categories initially.
+X10,payment_status_may,categorical,one-hot encode,Contains repayment-status codes -2 and 0; keep as separate categories initially.
+X11,payment_status_apr,categorical,one-hot encode,Contains repayment-status codes -2 and 0; keep as separate categories initially.
+X12,bill_amount_sep,numeric,scale,
+X13,bill_amount_aug,numeric,scale,
+X14,bill_amount_jul,numeric,scale,
+X15,bill_amount_jun,numeric,scale,
+X16,bill_amount_may,numeric,scale,
+X17,bill_amount_apr,numeric,scale,
+X18,payment_amount_sep,numeric,scale,
+X19,payment_amount_aug,numeric,scale,
+X20,payment_amount_jul,numeric,scale,
+X21,payment_amount_jun,numeric,scale,
+X22,payment_amount_may,numeric,scale,
+X23,payment_amount_apr,numeric,scale,
+Y,default_next_month,target,prediction target,
