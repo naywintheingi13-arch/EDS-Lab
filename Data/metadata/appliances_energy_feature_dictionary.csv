@@ -1,0 +1,32 @@
+feature,source_column,role,group,description,unit
+timestamp,date,time,time,Date and time of the 10-minute observation.,
+appliance_energy_wh,Appliances,target,energy,Appliance energy use during the recorded interval.,Wh
+lights_energy_wh,lights,feature,energy,Energy use of house light fixtures.,Wh
+kitchen_temp_c,T1,feature,indoor_temperature,Temperature in the kitchen area.,C
+kitchen_humidity_pct,RH_1,feature,indoor_humidity,Relative humidity in the kitchen area.,%
+living_room_temp_c,T2,feature,indoor_temperature,Temperature in the living-room area.,C
+living_room_humidity_pct,RH_2,feature,indoor_humidity,Relative humidity in the living-room area.,%
+laundry_room_temp_c,T3,feature,indoor_temperature,Temperature in the laundry-room area.,C
+laundry_room_humidity_pct,RH_3,feature,indoor_humidity,Relative humidity in the laundry-room area.,%
+office_temp_c,T4,feature,indoor_temperature,Temperature in the office room.,C
+office_humidity_pct,RH_4,feature,indoor_humidity,Relative humidity in the office room.,%
+bathroom_temp_c,T5,feature,indoor_temperature,Temperature in the bathroom.,C
+bathroom_humidity_pct,RH_5,feature,indoor_humidity,Relative humidity in the bathroom.,%
+north_outdoor_temp_c,T6,feature,local_outdoor,Temperature outside the building on the north side.,C
+north_outdoor_humidity_pct,RH_6,feature,local_outdoor,Relative humidity outside the building on the north side.,%
+ironing_room_temp_c,T7,feature,indoor_temperature,Temperature in the ironing room.,C
+ironing_room_humidity_pct,RH_7,feature,indoor_humidity,Relative humidity in the ironing room.,%
+teen_room_temp_c,T8,feature,indoor_temperature,Temperature in teenager room 2.,C
+teen_room_humidity_pct,RH_8,feature,indoor_humidity,Relative humidity in teenager room 2.,%
+parents_room_temp_c,T9,feature,indoor_temperature,Temperature in the parents' room.,C
+parents_room_humidity_pct,RH_9,feature,indoor_humidity,Relative humidity in the parents' room.,%
+weather_temp_c,T_out,feature,weather,Outdoor temperature from Chievres weather station.,C
+weather_pressure_mm_hg,Press_mm_hg,feature,weather,Atmospheric pressure from the weather station.,mm Hg
+weather_humidity_pct,RH_out,feature,weather,Outdoor relative humidity from the weather station.,%
+weather_windspeed_ms,Windspeed,feature,weather,Wind speed from the weather station.,m/s
+weather_visibility_km,Visibility,feature,weather,Visibility from the weather station.,km
+weather_dewpoint_c,Tdewpoint,feature,weather,Dew-point temperature from the weather station.,C
+hour,derived from date,feature,time,Hour of day derived from timestamp.,0-23
+day_of_week,derived from date,feature,time,Day of week derived from timestamp; Monday=0 and Sunday=6.,0-6
+is_weekend,derived from date,feature,time,Weekend indicator derived from day of week.,0/1
+random_control,rv1,negative_control,control,Random variable included in the original dataset for testing whether models assign predictive value to meaningless inputs.,

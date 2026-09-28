@@ -1,0 +1,48 @@
+[
+  {
+    "samples": 1000,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "samples": 5000,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "samples": 10000,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  }
+]

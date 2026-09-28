@@ -1,0 +1,47 @@
+[
+  {
+    "case": "near_threshold",
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7714285714285715,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "case": "high_scoring_purchaser",
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": -0.028571428571428574,
+    "shared_features": [
+      "ExitRates",
+      "Month",
+      "ProductRelated",
+      "ProductRelated_Duration"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "case": "low_scoring_non_purchaser",
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": -0.3142857142857143,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  }
+]

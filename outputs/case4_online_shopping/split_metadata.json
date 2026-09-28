@@ -1,0 +1,47 @@
+{
+  "summary": [
+    {
+      "partition": "train",
+      "rows": 7398,
+      "purchases": 1145,
+      "prevalence": 0.15477155988104893,
+      "unique_groups": 7325
+    },
+    {
+      "partition": "development",
+      "rows": 2466,
+      "purchases": 382,
+      "prevalence": 0.1549067315490673,
+      "unique_groups": 2441
+    },
+    {
+      "partition": "final_test",
+      "rows": 2466,
+      "purchases": 381,
+      "prevalence": 0.15450121654501217,
+      "unique_groups": 2439
+    }
+  ],
+  "raw_sha256": "b3055ee355f59134d851d32641183cb4a8b45def7124d2f50442a042f358e0d9",
+  "hash_definition": "SHA256 canonical JSON list, NUM + CAT order, nominal columns strings",
+  "features": [
+    "Administrative",
+    "Administrative_Duration",
+    "Informational",
+    "Informational_Duration",
+    "ProductRelated",
+    "ProductRelated_Duration",
+    "BounceRates",
+    "ExitRates",
+    "SpecialDay",
+    "Month",
+    "OperatingSystems",
+    "Browser",
+    "Region",
+    "TrafficType",
+    "VisitorType",
+    "Weekend"
+  ],
+  "extra_duplicate_final_vectors": 125,
+  "mixed_label_groups": 0
+}

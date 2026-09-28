@@ -1,0 +1,18 @@
+check,flagged_n,generated_n,fraction
+Administrative: fractional count,2065,4999,0.413082616523
+Administrative: negative count,0,4999,0
+"Administrative: zero count, positive duration",1230,4999,0.246049209842
+Administrative: duration/count above train p99,119,4999,0.0238047609522
+Informational: fractional count,1031,4999,0.20624124825
+Informational: negative count,0,4999,0
+"Informational: zero count, positive duration",792,4999,0.158431686337
+Informational: duration/count above train p99,9,4999,0.00180036007201
+ProductRelated: fractional count,4993,4999,0.998799759952
+ProductRelated: negative count,0,4999,0
+"ProductRelated: zero count, positive duration",0,4999,0
+ProductRelated: duration/count above train p99,1076,4999,0.21524304861
+BounceRates: outside train range,0,4999,0
+ExitRates: outside train range,0,4999,0
+Month/SpecialDay: pair absent from train,506,4999,0.101220244049
+SpecialDay: off observed grid,505,4999,0.101020204041
+Any category with <20 training rows,56,4999,0.0112022404481

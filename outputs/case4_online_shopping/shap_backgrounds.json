@@ -1,0 +1,48 @@
+{
+  "A_overall_train": {
+    "sample_seed": 2026,
+    "size": 50,
+    "purchases": 9,
+    "prevalence": 0.18,
+    "mean_model_score": 0.17320897580862177,
+    "target_informed": false,
+    "month_composition": {
+      "Nov": 22,
+      "May": 8,
+      "Mar": 8,
+      "Dec": 6,
+      "Oct": 2,
+      "Aug": 1,
+      "Jul": 1,
+      "Sep": 1,
+      "June": 1
+    },
+    "visitor_composition": {
+      "Returning_Visitor": 42,
+      "New_Visitor": 8
+    }
+  },
+  "B_nonpurchase_train": {
+    "sample_seed": 2026,
+    "size": 50,
+    "purchases": 0,
+    "prevalence": 0.0,
+    "mean_model_score": 0.10538139048785503,
+    "target_informed": true,
+    "month_composition": {
+      "May": 12,
+      "Nov": 8,
+      "Dec": 8,
+      "Oct": 7,
+      "Mar": 7,
+      "Jul": 4,
+      "Aug": 3,
+      "Feb": 1
+    },
+    "visitor_composition": {
+      "Returning_Visitor": 45,
+      "New_Visitor": 4,
+      "Other": 1
+    }
+  }
+}

@@ -1,0 +1,3065 @@
+[
+  {
+    "seed_a": 0,
+    "seed_b": 1,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 2,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 3,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 4,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 5,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 6,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 7,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 8,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 9,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 13,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 0,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 2,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 3,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.7,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 4,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 5,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 6,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 7,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 8,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 9,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.5428571428571429,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 12,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 13,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 15,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 16,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 17,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 1,
+    "seed_b": 19,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 3,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 4,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 5,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 6,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 7,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 8,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 9,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 13,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 2,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 4,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 5,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 6,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 7,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 8,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 9,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 12,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 13,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 15,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.4727272727272727,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 16,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 17,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 3,
+    "seed_b": 19,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.4727272727272727,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 5,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 6,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 7,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 8,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 9,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 13,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7714285714285715,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 4,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 6,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 7,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 8,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 9,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 13,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7714285714285715,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 5,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 7,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 8,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 9,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 12,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 13,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 15,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 16,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 17,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 6,
+    "seed_b": 19,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 8,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 9,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 10,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 11,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.7,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 13,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 14,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 18,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.4727272727272727,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 7,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 9,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 13,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8857142857142858,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 8,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 10,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 11,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 13,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7714285714285715,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 9,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 11,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 13,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 14,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.4363636363636364,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 18,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.38181818181818183,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 10,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 11,
+    "seed_b": 12,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 11,
+    "seed_b": 13,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 11,
+    "seed_b": 14,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.4363636363636364,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 11,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 11,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 11,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 11,
+    "seed_b": 18,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.38181818181818183,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 11,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6571428571428573,
+    "shared_features": [
+      "BounceRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 12,
+    "seed_b": 13,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 12,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 12,
+    "seed_b": 15,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 12,
+    "seed_b": 16,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 12,
+    "seed_b": 17,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 12,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 12,
+    "seed_b": 19,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 13,
+    "seed_b": 14,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7714285714285715,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 13,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 13,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 13,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.942857142857143,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 13,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 13,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 14,
+    "seed_b": 15,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 14,
+    "seed_b": 16,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 14,
+    "seed_b": 17,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.8285714285714287,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 14,
+    "seed_b": 18,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.8999999999999998,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 14,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.6,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 15,
+    "seed_b": 16,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 15,
+    "seed_b": 17,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 15,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 15,
+    "seed_b": 19,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "Informational_Duration",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 16,
+    "seed_b": 17,
+    "shared_n": 5,
+    "jaccard": 1.0,
+    "union_rank_spearman": 0.9999999999999999,
+    "shared_features": [
+      "BounceRates",
+      "ExitRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 5,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 16,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 16,
+    "seed_b": 19,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 17,
+    "seed_b": 18,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.7142857142857143,
+    "shared_features": [
+      "BounceRates",
+      "Month",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 17,
+    "seed_b": 19,
+    "shared_n": 3,
+    "jaccard": 0.42857142857142855,
+    "union_rank_spearman": 0.5636363636363636,
+    "shared_features": [
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 3,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  },
+  {
+    "seed_a": 18,
+    "seed_b": 19,
+    "shared_n": 4,
+    "jaccard": 0.6666666666666666,
+    "union_rank_spearman": 0.48571428571428577,
+    "shared_features": [
+      "Administrative",
+      "BounceRates",
+      "ProductRelated_Duration",
+      "VisitorType"
+    ],
+    "sign_comparable_n": 4,
+    "sign_agreement": 1.0,
+    "sign_disagreements": []
+  }
+]

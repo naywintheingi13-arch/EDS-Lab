@@ -1,0 +1,17 @@
+{
+  "raw_sha256_matches": true,
+  "all_rows_preserved": true,
+  "group_disjoint": true,
+  "preprocessing_and_transport_fit_partition": "train",
+  "explanation_cases_partition": "development",
+  "background_partition": "train",
+  "positive_class_index": 1,
+  "wrapper_max_abs_error": {
+    "train": 2.220446049250313e-16,
+    "development": 0.0
+  },
+  "bins_identical_across_runs": true,
+  "max_shap_reconstruction_error": 1.1102230246251565e-16,
+  "development_experiments_finished_before_final_test_prediction": true,
+  "model_changed_after_final_test": false
+}

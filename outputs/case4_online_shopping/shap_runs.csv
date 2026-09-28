@@ -1,0 +1,5 @@
+case,background,base_value,model_score,sum_contributions,reconstruction_error
+near_threshold,A_overall_train,0.173208975809,0.498317913647,0.325108937839,0
+high_scoring_purchaser,A_overall_train,0.173208975809,0.605417674272,0.432208698463,0
+low_scoring_non_purchaser,A_overall_train,0.173208975809,0,-0.173208975809,2.77555756156e-17
+near_threshold,B_nonpurchase_train,0.105381390488,0.498317913647,0.392936523159,1.11022302463e-16

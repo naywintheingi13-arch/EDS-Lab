@@ -1,0 +1,146 @@
+{
+  "outputs/case4_online_shopping/config.json": {
+    "bytes": 1043,
+    "sha256": "619ee5109a1c9cebadc766a7ca9214a812ad12bac612bb41a3d971c4a6edc112"
+  },
+  "outputs/case4_online_shopping/correlated_attributions.csv": {
+    "bytes": 1340,
+    "sha256": "165f8a361b7230d0e59fd8e5a611e7f73003d5962c86c2109a5663656df56250"
+  },
+  "outputs/case4_online_shopping/development_experiments_complete.json": {
+    "bytes": 106,
+    "sha256": "67c407977cc9303e3e8e795c8f972b979f685549d09b3f6fef436900c531f18a"
+  },
+  "outputs/case4_online_shopping/development_predictions.csv": {
+    "bytes": 92242,
+    "sha256": "a81872f39a511732b4f591e35c67164b817bec90a6b555fbdbe08f71bb8f421b"
+  },
+  "outputs/case4_online_shopping/environment.json": {
+    "bytes": 3498,
+    "sha256": "449d450b6015b0184f5deef2f8d66c2c1e5c9a236b4f0a85d4d4346d3dcd2e56"
+  },
+  "outputs/case4_online_shopping/figures/lime_stability.png": {
+    "bytes": 106694,
+    "sha256": "f33b5b77c3f012fe228841746d89175bfcb1e6876454ebbb76dea988d5a4de6f"
+  },
+  "outputs/case4_online_shopping/figures/shap_background_sensitivity.png": {
+    "bytes": 66862,
+    "sha256": "8f3dc98a1a8dd986b38232f6835c3606cc7f6a8dd9bebf29dfb395f1ddec5cca"
+  },
+  "outputs/case4_online_shopping/figures/three_session_explanations.png": {
+    "bytes": 202614,
+    "sha256": "a03e441c2e03db4c78f5333a71712d9f53721b6e27e30b5cb608212366195d61"
+  },
+  "outputs/case4_online_shopping/final_test_predictions.csv": {
+    "bytes": 55362,
+    "sha256": "7b1f35328483f1b990b33ee7c18f15f014ec043e977e6d359d1d816063cf49ed"
+  },
+  "outputs/case4_online_shopping/installation.json": {
+    "bytes": 531,
+    "sha256": "a7030ee131364815482007473d50bfe99b6cae1e480f93b76c7052d7e2d0df04"
+  },
+  "outputs/case4_online_shopping/lime_bins.json": {
+    "bytes": 2780,
+    "sha256": "3878b6a5f40c3bbc2b63237684a93adaa4ec14615492e56b65ef91a98cfe56aa"
+  },
+  "outputs/case4_online_shopping/lime_budget_comparison.json": {
+    "bytes": 1039,
+    "sha256": "1634a5b46c5928d035937a58bfd3ca4a318d9dc3723a3ee8032a0f7eb1eadb56"
+  },
+  "outputs/case4_online_shopping/lime_features.csv": {
+    "bytes": 12650,
+    "sha256": "04ca228e1c19493e162560a71fd8cc0f250a2286f4549caf6be46b3451bea184"
+  },
+  "outputs/case4_online_shopping/lime_pairwise_stability.json": {
+    "bytes": 66893,
+    "sha256": "52e403f64df5c316cb26a71e89880b00da6f48e80fdd600ea642a0b2b87ca31c"
+  },
+  "outputs/case4_online_shopping/lime_runs.csv": {
+    "bytes": 2813,
+    "sha256": "6fe4da4f2ba4a1a928ebe1beaf1693871aded59b40bb2b70a982ca4c566ab5d7"
+  },
+  "outputs/case4_online_shopping/lime_selection_summary.csv": {
+    "bytes": 1122,
+    "sha256": "eca41e9b13e25359f29848e064fa8ba81a52bd3c31db470122e906bf7b66e635"
+  },
+  "outputs/case4_online_shopping/lime_stability_summary.json": {
+    "bytes": 1061,
+    "sha256": "d9f64b92206f69207c29793dbae49eb982bb46097f8081278778bb7a9100d0ff"
+  },
+  "outputs/case4_online_shopping/lime_vs_shap.json": {
+    "bytes": 1073,
+    "sha256": "9970a62505789e26a86cdde82b8b4e4611179c98dffc508f27bf93e89e40c3aa"
+  },
+  "outputs/case4_online_shopping/perturbation_examples.csv": {
+    "bytes": 1881,
+    "sha256": "6a40753bb360c756c683118583ce32cfcebf77245be947a473a99422f5c610ae"
+  },
+  "outputs/case4_online_shopping/perturbation_support.csv": {
+    "bytes": 1003,
+    "sha256": "cec96d9efbaf1ad4cda65d5bfd86483fddafbd4045ae0777e5ac18ead96ce80f"
+  },
+  "outputs/case4_online_shopping/predictive_metrics.json": {
+    "bytes": 1277,
+    "sha256": "864c0917e1e3897ccebed1bb73925c1ee7bafa4c654c5e5a250a8dd7d531346d"
+  },
+  "outputs/case4_online_shopping/preprocessing.json": {
+    "bytes": 8295,
+    "sha256": "d5136e8fd6d44d51293699c5ae4fa51e554774d347052c1ba895e3ad2f0947a3"
+  },
+  "outputs/case4_online_shopping/selected_case_features.csv": {
+    "bytes": 533,
+    "sha256": "08a867297167f6879626393a7e894bf721b20c8382d846762da6915cea332953"
+  },
+  "outputs/case4_online_shopping/selected_cases.csv": {
+    "bytes": 435,
+    "sha256": "c34d1947e70ea92e1d3f56bd66bfbce6ddb9f7eb5e312cbb612c28394ade446c"
+  },
+  "outputs/case4_online_shopping/shap_background_comparison.csv": {
+    "bytes": 1258,
+    "sha256": "fb6c08e560046b9b2a1e50cd5982ede838056ec3e7da6fa935e7973d6410cdfa"
+  },
+  "outputs/case4_online_shopping/shap_background_overlap.json": {
+    "bytes": 294,
+    "sha256": "bb503d0440ab36d3c913733ae926fd0ad29abea90f26ab423a2e7b85aff5df65"
+  },
+  "outputs/case4_online_shopping/shap_background_rows.csv": {
+    "bytes": 9059,
+    "sha256": "f32b9aef91d44541d32e72830f1ee8f3849b7e6feac134829a35b13809191fd2"
+  },
+  "outputs/case4_online_shopping/shap_backgrounds.json": {
+    "bytes": 918,
+    "sha256": "950e07374dded6a3e1275c1061553dd1c01512dcfeab6677976c557d21c140d6"
+  },
+  "outputs/case4_online_shopping/shap_runs.csv": {
+    "bytes": 433,
+    "sha256": "7306a06733f29cfee0f4e2ddfe43c5fa8cb1b25b39230b296cc99ce665eed920"
+  },
+  "outputs/case4_online_shopping/shap_values.csv": {
+    "bytes": 5074,
+    "sha256": "1ad1a34341952626abc29bdb17f2b78105752ea94208b67734edb53d7e41b08a"
+  },
+  "outputs/case4_online_shopping/split_assignments.csv": {
+    "bytes": 1053016,
+    "sha256": "8c5d14c5cdeb91a001fc792732a3691dd93c469637286e67071a9afa0ce162a2"
+  },
+  "outputs/case4_online_shopping/split_metadata.json": {
+    "bytes": 1089,
+    "sha256": "ba6b2766355157da8b673348cfb0cb8bf9d22007e23273bb82b968e1f814dd42"
+  },
+  "outputs/case4_online_shopping/validation.json": {
+    "bytes": 563,
+    "sha256": "82344b1399f753ab7e241c65eb759db454e7cd7090d939656e35551aea957c21"
+  },
+  "run_case4_online_shopping_experiments.py": {
+    "bytes": 33167,
+    "sha256": "d06687853dcfea945d3ea39da8e1a86b52be33baf2d936a8f2e1ac28a367b46d"
+  },
+  "src/case4_reporting.py": {
+    "bytes": 33227,
+    "sha256": "2089930059ec1b075c047bee206c318de73348ff469bcd39114f2cf7829751d2"
+  },
+  "outputs/case4_online_shopping_experiment_results.md": {
+    "bytes": 33547,
+    "sha256": "e94711eff9943dcbdd936f0e4a994a72c5141fa08b52331843d2fbb107525a30"
+  }
+}

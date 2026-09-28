@@ -1,0 +1,164 @@
+{
+  "Administrative": {
+    "predicates": [
+      "Administrative <= 0.00",
+      "0.00 < Administrative <= 1.00",
+      "1.00 < Administrative <= 4.00",
+      "Administrative > 4.00"
+    ],
+    "mins": [
+      0.0,
+      0.0,
+      1.0,
+      4.0
+    ],
+    "maxs": [
+      0.0,
+      1.0,
+      4.0,
+      26.0
+    ]
+  },
+  "Administrative_Duration": {
+    "predicates": [
+      "Administrative_Duration <= 0.00",
+      "0.00 < Administrative_Duration <= 7.00",
+      "7.00 < Administrative_Duration <= 94.17",
+      "Administrative_Duration > 94.17"
+    ],
+    "mins": [
+      0.0,
+      0.0,
+      7.0,
+      94.1749999975
+    ],
+    "maxs": [
+      0.0,
+      7.0,
+      94.1749999975,
+      3398.75
+    ]
+  },
+  "Informational": {
+    "predicates": [
+      "Informational <= 0.00",
+      "Informational > 0.00"
+    ],
+    "mins": [
+      0.0,
+      0.0
+    ],
+    "maxs": [
+      0.0,
+      14.0
+    ]
+  },
+  "Informational_Duration": {
+    "predicates": [
+      "Informational_Duration <= 0.00",
+      "Informational_Duration > 0.00"
+    ],
+    "mins": [
+      0.0,
+      0.0
+    ],
+    "maxs": [
+      0.0,
+      2549.375
+    ]
+  },
+  "ProductRelated": {
+    "predicates": [
+      "ProductRelated <= 7.00",
+      "7.00 < ProductRelated <= 18.00",
+      "18.00 < ProductRelated <= 38.00",
+      "ProductRelated > 38.00"
+    ],
+    "mins": [
+      0.0,
+      7.0,
+      18.0,
+      38.0
+    ],
+    "maxs": [
+      7.0,
+      18.0,
+      38.0,
+      518.0
+    ]
+  },
+  "ProductRelated_Duration": {
+    "predicates": [
+      "ProductRelated_Duration <= 183.65",
+      "183.65 < ProductRelated_Duration <= 595.94",
+      "595.94 < ProductRelated_Duration <= 1470.08",
+      "ProductRelated_Duration > 1470.08"
+    ],
+    "mins": [
+      0.0,
+      183.654166675,
+      595.9375,
+      1470.0818450000002
+    ],
+    "maxs": [
+      183.654166675,
+      595.9375,
+      1470.0818450000002,
+      63973.52223
+    ]
+  },
+  "BounceRates": {
+    "predicates": [
+      "BounceRates <= 0.00",
+      "0.00 < BounceRates <= 0.00",
+      "0.00 < BounceRates <= 0.02",
+      "BounceRates > 0.02"
+    ],
+    "mins": [
+      0.0,
+      0.0,
+      0.003034139,
+      0.01691765975
+    ],
+    "maxs": [
+      0.0,
+      0.003034139,
+      0.01691765975,
+      0.2
+    ]
+  },
+  "ExitRates": {
+    "predicates": [
+      "ExitRates <= 0.01",
+      "0.01 < ExitRates <= 0.03",
+      "0.03 < ExitRates <= 0.05",
+      "ExitRates > 0.05"
+    ],
+    "mins": [
+      0.0,
+      0.014285714,
+      0.025308642,
+      0.05
+    ],
+    "maxs": [
+      0.014285714,
+      0.025308642,
+      0.05,
+      0.2
+    ]
+  },
+  "SpecialDay": {
+    "predicates": [
+      "SpecialDay <= 0.00",
+      "SpecialDay > 0.00"
+    ],
+    "mins": [
+      0.0,
+      0.0
+    ],
+    "maxs": [
+      0.0,
+      1.0
+    ]
+  }
+}

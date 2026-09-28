@@ -1,0 +1,4 @@
+case,row_index,csv_line,feature_sha256,true_outcome,model_score,predicted_class,correct
+near_threshold,4002,4004,49ec5e8448444d21297d82eba14b863deca72056e5a570f47ba9d64f99976425,1,0.498317913647,0,False
+high_scoring_purchaser,8612,8614,12b30a96c7429e515f608eef7c09e865b63e4ddab28ead09d3c2416821042a13,1,0.605417674272,1,True
+low_scoring_non_purchaser,112,114,4c918cc750770b396a8b04b449e3df27dd59a1c653a46525dbb65aad93f9e827,0,0,0,True

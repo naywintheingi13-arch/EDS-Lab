@@ -1,0 +1,15 @@
+{
+  "shared_n": 5,
+  "jaccard": 1.0,
+  "union_rank_spearman": 0.8999999999999998,
+  "shared_features": [
+    "BounceRates",
+    "ExitRates",
+    "ProductRelated_Duration",
+    "TrafficType",
+    "VisitorType"
+  ],
+  "sign_comparable_n": 5,
+  "sign_agreement": 1.0,
+  "sign_disagreements": []
+}

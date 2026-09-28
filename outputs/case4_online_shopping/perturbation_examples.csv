@@ -1,0 +1,9 @@
+generated_row,Administrative,Administrative_Duration,Informational,Informational_Duration,ProductRelated,ProductRelated_Duration,BounceRates,ExitRates,SpecialDay,Month,OperatingSystems,Browser,Region,TrafficType,VisitorType,Weekend,flags
+1,1.21511953692,0,0,0,3.20991855114,1247.654994,0.00898919567628,0.0184589412455,0,Aug,1,1,7,2,New_Visitor,False,Administrative: fractional count; ProductRelated: fractional count; ProductRelated: duration/count above train p99
+2,1.04389863329,0,0,0,103.551455564,2330.60881489,0,0.00225230153256,0,Nov,4,2,2,2,Returning_Visitor,False,Administrative: fractional count; ProductRelated: fractional count
+3,0.999999999986,0,0,0,15.1735597336,3537.24811181,0.199524003896,0.00807491189635,0,May,2,2,3,2,Returning_Visitor,False,ProductRelated: fractional count; ProductRelated: duration/count above train p99
+4,0,0,0,170.571978828,94.2447036307,1557.77776464,0.010747603282,0.0495317429183,0,Dec,3,10,3,2,Returning_Visitor,False,"Informational: zero count, positive duration; ProductRelated: fractional count"
+5,2.43765649331,365.466377767,3.0226300611,0,28.9699323937,5137.87892564,0.101507862404,0.0299802121057,0,Nov,2,2,8,3,Returning_Visitor,False,Administrative: fractional count; Informational: fractional count; ProductRelated: fractional count; ProductRelated: duration/count above train p99
+6,0,0,0,425.348477964,160.598735084,89.1509143922,0.0716349348143,0.126447011927,0,Mar,3,2,1,2,Returning_Visitor,False,"Informational: zero count, positive duration; ProductRelated: fractional count"
+7,9.43894353738,0,0,0,137.595713612,1131.08150593,0.00875605841969,0.0428216444836,0,May,2,2,5,3,New_Visitor,False,Administrative: fractional count; ProductRelated: fractional count
+8,11.1729299751,0,0,0,33.0268054812,76.1413290667,0,0.0389081123719,0,May,2,2,9,3,New_Visitor,True,Administrative: fractional count; ProductRelated: fractional count
