@@ -1,0 +1,142 @@
+{
+  "development": {
+    "Training mean": {
+      "MAE": 197.82937894348797,
+      "RMSE": 260.65015815946236,
+      "R2": -0.27262245596338075
+    },
+    "Hour/workday mean": {
+      "MAE": 125.53846712016272,
+      "RMSE": 168.5505287861052,
+      "R2": 0.46783802980676026
+    },
+    "Random Forest": {
+      "MAE": 74.43516274687062,
+      "RMSE": 101.9981625214616,
+      "R2": 0.8051195414263237
+    }
+  },
+  "final_test": {
+    "Training mean": {
+      "MAE": 156.56524998630744,
+      "RMSE": 208.05625493551065,
+      "R2": -0.06522406231531486
+    },
+    "Hour/workday mean": {
+      "MAE": 88.54284991990856,
+      "RMSE": 129.20215994869892,
+      "R2": 0.5892108514851109
+    },
+    "Random Forest": {
+      "MAE": 67.29082104220876,
+      "RMSE": 99.56230676165718,
+      "R2": 0.7560676975937272
+    }
+  },
+  "pfi": {
+    "yr": {
+      "mean": 0.0,
+      "shuffle_sd": 0.0
+    },
+    "mnth": {
+      "mean": 0.012056943832047296,
+      "shuffle_sd": 0.00441231744524724
+    },
+    "hr": {
+      "mean": 119.84288873560786,
+      "shuffle_sd": 1.689219531775789
+    },
+    "workingday": {
+      "mean": 32.50539443735262,
+      "shuffle_sd": 1.3340900496520927
+    },
+    "weathersit": {
+      "mean": 0.7756178595393066,
+      "shuffle_sd": 0.20304513063524565
+    },
+    "temp": {
+      "mean": 0.8803868767823815,
+      "shuffle_sd": 0.2079130103091331
+    },
+    "atemp": {
+      "mean": 11.888080328297242,
+      "shuffle_sd": 0.9033095190728898
+    },
+    "hum": {
+      "mean": 22.780699105844075,
+      "shuffle_sd": 0.8926778486278549
+    },
+    "windspeed": {
+      "mean": -0.3070260979582272,
+      "shuffle_sd": 0.16353799253405626
+    }
+  },
+  "thermal_group": {
+    "Temperature": {
+      "mean": 0.8803868767823815,
+      "std": 0.2079130103091331
+    },
+    "Perceived temperature": {
+      "mean": 11.888080328297242,
+      "std": 0.9033095190728898
+    },
+    "Both, jointly": {
+      "mean": 15.142883020695816,
+      "std": 0.8326657827770153
+    }
+  },
+  "temperature_correlation": 0.991836519477216,
+  "support_radius_sensitivity": [
+    {
+      "Cutoff multiplier": 0.5,
+      "Distance cutoff": 0.06859432965749737,
+      "Original pairs": 1.7500000000000002,
+      "PDP queries": 82.4274193548387,
+      "ALE queries": 18.25
+    },
+    {
+      "Cutoff multiplier": 0.75,
+      "Distance cutoff": 0.10289149448624606,
+      "Original pairs": 1.5,
+      "PDP queries": 75.83870967741936,
+      "ALE queries": 11.375
+    },
+    {
+      "Cutoff multiplier": 1.0,
+      "Distance cutoff": 0.13718865931499474,
+      "Original pairs": 1.5,
+      "PDP queries": 72.18548387096774,
+      "ALE queries": 9.5
+    },
+    {
+      "Cutoff multiplier": 1.5,
+      "Distance cutoff": 0.20578298897249211,
+      "Original pairs": 1.5,
+      "PDP queries": 65.23387096774194,
+      "ALE queries": 5.75
+    },
+    {
+      "Cutoff multiplier": 2.0,
+      "Distance cutoff": 0.2743773186299895,
+      "Original pairs": 1.25,
+      "PDP queries": 57.62096774193548,
+      "ALE queries": 3.6249999999999996
+    }
+  ],
+  "ale_linear_check_max_error": 4.440892098500626e-16,
+  "ale_actual_bin_counts": {
+    "10": 10,
+    "15": 14,
+    "20": 16
+  },
+  "elapsed_seconds": 10.210358569000164,
+  "versions": {
+    "python": "3.14.4",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  },
+  "data_sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f",
+  "final_test_evaluated": true
+}

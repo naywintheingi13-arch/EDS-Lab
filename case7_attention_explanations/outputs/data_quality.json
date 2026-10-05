@@ -1,0 +1,14 @@
+{
+  "original_train": 67349,
+  "original_validation": 872,
+  "train_duplicate_rows": 371,
+  "conflicting_train_keys": 5,
+  "cross_split_exact_keys_removed": 0,
+  "validation_duplicate_rows": 0,
+  "clean_training_pool": 66973,
+  "selected_training_rows": 20000,
+  "vocab_size": 9649,
+  "validation_unknown_rate": 0.0701579935918683,
+  "train_truncation_rate": 0.0,
+  "validation_truncation_rate": 0.0
+}

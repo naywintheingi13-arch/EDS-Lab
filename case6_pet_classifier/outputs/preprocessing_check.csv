@@ -1,0 +1,5 @@
+name,true_label,center_crop_p_dog,padded_p_dog,center_crop_prediction,padded_prediction
+Abyssinian_108,0,1.0867924e-08,1.0029752584017615e-09,0,0
+Persian_190,0,0.99423933,0.00032902153907343745,1,0
+american_pit_bull_terrier_138,1,1.0,0.9999991655349731,1,1
+american_bulldog_151,1,0.3613324,0.7532548308372498,0,1

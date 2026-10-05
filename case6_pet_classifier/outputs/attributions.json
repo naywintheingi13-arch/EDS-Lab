@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Abyssinian_108",
+    "method": "IG_mean",
+    "steps": 256,
+    "score_delta": 16.930477142333984,
+    "residual": -0.13268661499023438,
+    "passes": true,
+    "attempts": [
+      {
+        "steps": 64,
+        "score_delta": 16.930477142333984,
+        "residual": -0.5577125549316406,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 128,
+        "score_delta": 16.930477142333984,
+        "residual": -0.9972305297851562,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 256,
+        "score_delta": 16.930477142333984,
+        "residual": -0.13268661499023438,
+        "passes": true,
+        "method_integration": "trapezoid"
+      }
+    ],
+    "foreground_share": 0.6680727601051331,
+    "area_share": 0.6550621847060586,
+    "enrichment": 1.0198615882626665,
+    "method_integration": "trapezoid"
+  },
+  {
+    "name": "Abyssinian_108",
+    "method": "IG_blur",
+    "steps": 128,
+    "score_delta": 20.501422882080078,
+    "residual": 0.20055389404296875,
+    "passes": true,
+    "attempts": [
+      {
+        "steps": 64,
+        "score_delta": 20.501422882080078,
+        "residual": 0.8342342376708984,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 128,
+        "score_delta": 20.501422882080078,
+        "residual": 0.20055389404296875,
+        "passes": true,
+        "method_integration": "trapezoid"
+      }
+    ],
+    "foreground_share": 0.7708734273910522,
+    "area_share": 0.6550621847060586,
+    "enrichment": 1.1767942729543468,
+    "method_integration": "trapezoid"
+  },
+  {
+    "name": "Abyssinian_108",
+    "method": "gradient",
+    "foreground_share": 0.7172102928161621,
+    "area_share": 0.6550621847060586,
+    "enrichment": 1.0948736006460071
+  },
+  {
+    "name": "Abyssinian_108",
+    "method": "GradCAM",
+    "foreground_share": 0.8337719440460205,
+    "area_share": 0.6550621847060586,
+    "enrichment": 1.2728134267438336
+  },
+  {
+    "name": "Persian_190",
+    "method": "IG_mean",
+    "steps": 128,
+    "score_delta": 6.557900428771973,
+    "residual": -0.0715799331665039,
+    "passes": true,
+    "attempts": [
+      {
+        "steps": 64,
+        "score_delta": 6.557900428771973,
+        "residual": -0.3553133010864258,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 128,
+        "score_delta": 6.557900428771973,
+        "residual": -0.0715799331665039,
+        "passes": true,
+        "method_integration": "trapezoid"
+      }
+    ],
+    "foreground_share": 0.8734689950942993,
+    "area_share": 0.6965800809293826,
+    "enrichment": 1.2539390933041181,
+    "method_integration": "trapezoid"
+  },
+  {
+    "name": "Persian_190",
+    "method": "IG_blur",
+    "steps": 64,
+    "score_delta": 4.76226806640625,
+    "residual": -0.05148792266845703,
+    "passes": true,
+    "attempts": [
+      {
+        "steps": 64,
+        "score_delta": 4.76226806640625,
+        "residual": -0.05148792266845703,
+        "passes": true,
+        "method_integration": "trapezoid"
+      }
+    ],
+    "foreground_share": 0.7540053129196167,
+    "area_share": 0.6965800809293826,
+    "enrichment": 1.0824388086343453,
+    "method_integration": "trapezoid"
+  },
+  {
+    "name": "Persian_190",
+    "method": "gradient",
+    "foreground_share": 0.6660308241844177,
+    "area_share": 0.6965800809293826,
+    "enrichment": 0.9561439415491098
+  },
+  {
+    "name": "Persian_190",
+    "method": "GradCAM",
+    "foreground_share": 0.6196133494377136,
+    "area_share": 0.6965800809293826,
+    "enrichment": 0.889507705432835
+  },
+  {
+    "name": "american_pit_bull_terrier_138",
+    "method": "IG_mean",
+    "steps": 64,
+    "score_delta": 18.11208724975586,
+    "residual": 0.2266521453857422,
+    "passes": true,
+    "attempts": [
+      {
+        "steps": 64,
+        "score_delta": 18.11208724975586,
+        "residual": 0.2266521453857422,
+        "passes": true,
+        "method_integration": "trapezoid"
+      }
+    ],
+    "foreground_share": 0.5920183062553406,
+    "area_share": 0.42129137613727674,
+    "enrichment": 1.4052466767381273,
+    "method_integration": "trapezoid"
+  },
+  {
+    "name": "american_pit_bull_terrier_138",
+    "method": "IG_blur",
+    "steps": 128,
+    "score_delta": 15.741092681884766,
+    "residual": 0.21640777587890625,
+    "passes": true,
+    "attempts": [
+      {
+        "steps": 64,
+        "score_delta": 15.741092681884766,
+        "residual": 0.40247154235839844,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 128,
+        "score_delta": 15.741092681884766,
+        "residual": 0.21640777587890625,
+        "passes": true,
+        "method_integration": "trapezoid"
+      }
+    ],
+    "foreground_share": 0.7596306204795837,
+    "area_share": 0.42129137613727674,
+    "enrichment": 1.803100332706692,
+    "method_integration": "trapezoid"
+  },
+  {
+    "name": "american_pit_bull_terrier_138",
+    "method": "gradient",
+    "foreground_share": 0.5745589137077332,
+    "area_share": 0.42129137613727674,
+    "enrichment": 1.3638041181277696
+  },
+  {
+    "name": "american_pit_bull_terrier_138",
+    "method": "GradCAM",
+    "foreground_share": 0.6511155962944031,
+    "area_share": 0.42129137613727674,
+    "enrichment": 1.545523201220807
+  },
+  {
+    "name": "american_bulldog_151",
+    "method": "IG_mean",
+    "steps": 1024,
+    "score_delta": -0.8373879194259644,
+    "residual": -0.0063010454177856445,
+    "passes": true,
+    "attempts": [
+      {
+        "steps": 64,
+        "score_delta": -0.8373879194259644,
+        "residual": 1.1196449995040894,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 128,
+        "score_delta": -0.8373879194259644,
+        "residual": 0.16134154796600342,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 256,
+        "score_delta": -0.8373879194259644,
+        "residual": 0.06576812267303467,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 512,
+        "score_delta": -0.8373879194259644,
+        "residual": 0.05366218090057373,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 1024,
+        "score_delta": -0.8373879194259644,
+        "residual": 0.04463088512420654,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 256,
+        "method_integration": "gausslegendre",
+        "score_delta": -0.8373879194259644,
+        "residual": -0.07251465320587158,
+        "passes": false
+      },
+      {
+        "steps": 512,
+        "method_integration": "gausslegendre",
+        "score_delta": -0.8373879194259644,
+        "residual": -0.040068745613098145,
+        "passes": false
+      },
+      {
+        "steps": 1024,
+        "method_integration": "gausslegendre",
+        "score_delta": -0.8373879194259644,
+        "residual": -0.0063010454177856445,
+        "passes": true
+      }
+    ],
+    "foreground_share": 0.8044753074645996,
+    "area_share": 0.7190103723856487,
+    "enrichment": 1.118864676173421,
+    "method_integration": "gausslegendre"
+  },
+  {
+    "name": "american_bulldog_151",
+    "method": "IG_blur",
+    "steps": 256,
+    "score_delta": 0.4752495288848877,
+    "residual": 0.014777898788452148,
+    "passes": true,
+    "attempts": [
+      {
+        "steps": 64,
+        "score_delta": 0.4752495288848877,
+        "residual": -0.30284810066223145,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 128,
+        "score_delta": 0.4752495288848877,
+        "residual": -0.18062615394592285,
+        "passes": false,
+        "method_integration": "trapezoid"
+      },
+      {
+        "steps": 256,
+        "score_delta": 0.4752495288848877,
+        "residual": 0.014777898788452148,
+        "passes": true,
+        "method_integration": "trapezoid"
+      }
+    ],
+    "foreground_share": 0.9201893210411072,
+    "area_share": 0.7190103723856487,
+    "enrichment": 1.2797997864592057,
+    "method_integration": "trapezoid"
+  },
+  {
+    "name": "american_bulldog_151",
+    "method": "gradient",
+    "foreground_share": 0.791459321975708,
+    "area_share": 0.7190103723856487,
+    "enrichment": 1.1007620367835258
+  },
+  {
+    "name": "american_bulldog_151",
+    "method": "GradCAM",
+    "foreground_share": 0.7243520021438599,
+    "area_share": 0.7190103723856487,
+    "enrichment": 1.0074291414468581
+  }
+]

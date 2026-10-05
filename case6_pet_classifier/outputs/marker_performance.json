@@ -1,0 +1,110 @@
+[
+  {
+    "model": "clean",
+    "condition": "clean",
+    "n": 370,
+    "accuracy": 0.9918918918918919,
+    "balanced_accuracy": 0.9896666666666667,
+    "log_loss": 0.03588901314844299,
+    "confusion_matrix": [
+      [
+        118,
+        2
+      ],
+      [
+        1,
+        249
+      ]
+    ]
+  },
+  {
+    "model": "clean",
+    "condition": "aligned",
+    "n": 370,
+    "accuracy": 0.981081081081081,
+    "balanced_accuracy": 0.9751666666666667,
+    "log_loss": 0.04049660148539387,
+    "confusion_matrix": [
+      [
+        115,
+        5
+      ],
+      [
+        2,
+        248
+      ]
+    ]
+  },
+  {
+    "model": "clean",
+    "condition": "swapped",
+    "n": 370,
+    "accuracy": 0.9864864864864865,
+    "balanced_accuracy": 0.9835,
+    "log_loss": 0.03042563819949599,
+    "confusion_matrix": [
+      [
+        117,
+        3
+      ],
+      [
+        2,
+        248
+      ]
+    ]
+  },
+  {
+    "model": "marker_trained",
+    "condition": "clean",
+    "n": 370,
+    "accuracy": 0.9837837837837838,
+    "balanced_accuracy": 0.9815,
+    "log_loss": 0.04016017839322028,
+    "confusion_matrix": [
+      [
+        117,
+        3
+      ],
+      [
+        3,
+        247
+      ]
+    ]
+  },
+  {
+    "model": "marker_trained",
+    "condition": "aligned",
+    "n": 370,
+    "accuracy": 0.9891891891891892,
+    "balanced_accuracy": 0.9876666666666667,
+    "log_loss": 0.03488863457635197,
+    "confusion_matrix": [
+      [
+        118,
+        2
+      ],
+      [
+        2,
+        248
+      ]
+    ]
+  },
+  {
+    "model": "marker_trained",
+    "condition": "swapped",
+    "n": 370,
+    "accuracy": 0.9783783783783784,
+    "balanced_accuracy": 0.971,
+    "log_loss": 0.048197917045410994,
+    "confusion_matrix": [
+      [
+        114,
+        6
+      ],
+      [
+        2,
+        248
+      ]
+    ]
+  }
+]

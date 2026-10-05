@@ -4,3 +4,21 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 AGENTS.md
+
+# OS / downloaded-file metadata
+*:Zone.Identifier
+
+# Archives and partial downloads
+*.zip
+*.part
+
+# Python/tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Re-downloadable full source data
+case6_pet_classifier/pet_data/
+
+# Instructor-generated Case 7 experiment outputs
+case7_attention_explanations/data/_glue_extract/

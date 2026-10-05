@@ -1,0 +1,5 @@
+name,breed,y,p_dog,prediction,confidence,correct
+Abyssinian_108,1,0,1.0867924e-08,0,1.0,True
+Persian_190,24,0,0.99423933,1,0.99423933,False
+american_pit_bull_terrier_138,3,1,1.0,1,1.0,True
+american_bulldog_151,2,1,0.3613324,0,0.6386676,False

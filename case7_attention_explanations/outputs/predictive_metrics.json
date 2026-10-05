@@ -1,0 +1,82 @@
+[
+  {
+    "model": "majority / class prior",
+    "accuracy": 0.5091743119266054,
+    "balanced_accuracy": 0.5,
+    "log_loss": 0.697664758223767,
+    "confusion_matrix": [
+      [
+        0,
+        428
+      ],
+      [
+        0,
+        444
+      ]
+    ]
+  },
+  {
+    "model": "TF-IDF logistic regression",
+    "accuracy": 0.7901376146788991,
+    "balanced_accuracy": 0.7891618253767787,
+    "log_loss": 0.4646902001029876,
+    "confusion_matrix": [
+      [
+        315,
+        113
+      ],
+      [
+        70,
+        374
+      ]
+    ]
+  },
+  {
+    "model": "BiLSTM attention seed 2026",
+    "accuracy": 0.7763761467889908,
+    "balanced_accuracy": 0.7752694283068116,
+    "log_loss": 0.6468972744716336,
+    "confusion_matrix": [
+      [
+        306,
+        122
+      ],
+      [
+        73,
+        371
+      ]
+    ]
+  },
+  {
+    "model": "BiLSTM attention seed 2027",
+    "accuracy": 0.7901376146788991,
+    "balanced_accuracy": 0.7894144144144144,
+    "log_loss": 0.5681914581754952,
+    "confusion_matrix": [
+      [
+        321,
+        107
+      ],
+      [
+        76,
+        368
+      ]
+    ]
+  },
+  {
+    "model": "BiLSTM attention seed 2028",
+    "accuracy": 0.7786697247706422,
+    "balanced_accuracy": 0.7775216805590637,
+    "log_loss": 0.645434505098804,
+    "confusion_matrix": [
+      [
+        306,
+        122
+      ],
+      [
+        71,
+        373
+      ]
+    ]
+  }
+]
